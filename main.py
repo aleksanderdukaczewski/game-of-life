@@ -11,6 +11,9 @@ BLACK = (0,0,0)
 inputfield_font = pg.font.Font(None, 32)
 button_font = pg.font.Font(None, 60)
 
+# Window caption
+pg.display.set_caption('Game of life')
+
 # Clock
 clock = pg.time.Clock()
 FPS = 60
