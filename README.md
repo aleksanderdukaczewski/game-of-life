@@ -1,1 +1,20 @@
 <h1>Conway's Game of Life in Pygame and Numpy </h1>
+
+<h2>Description</h2>
+<p>
+This is an implementation of Conway's Game of Life. The program lets a user choose the number of vertical cells, number of horizontal cells and size of a cell.
+</p>
+<p>
+After choosing the parameters, the program lets the user set the initial state of the grid by clicking on cells.
+</p>
+<p>
+After clicking the start button on the previous menu, the game starts and new generations of the grid are generated at the default rate of 4 times per second. 
+</p>
+
+</br>
+
+<h2>Installation</h2>
+<p>
+To install this implementation of the Game of Life you simply need to clone the repository with </br>
+<code>git clone https://github.com/aleksanderdukaczewski/game-of-life</code>
+</p>
