@@ -4,18 +4,18 @@
 <p>
 This is an implementation of Conway's Game of Life. The program lets a user choose the number of vertical cells, number of horizontal cells and size of a cell.
 </p>
-<img src="img_readme/welcomemenu.png" style="float: center; margin-right: 10px; width: 50%;" />
+<img src="img_readme/welcomemenu.png" width="250" />
 </br> </br>
 <p>
 After choosing the parameters, the program lets the user set the initial state of the grid by clicking on cells.
 </p>
-<img src="img_readme/choosefields.png" style="float: centre; margin-right: 10px; width: 48%;" /> 
-<img src="img_readme/choosefields_example.png" style="float: centre; margin-right: 10px; width: 48%;" />
+<img src="img_readme/choosefields.png" width="250" /> 
+<img src="img_readme/choosefields_example.png" width="250" />
 </br></br>
 <p>
 After clicking the start button on the previous menu, the game starts and new generations of the grid are generated at the default rate of 4 times per second. 
 </p>
-<img src="img_readme/rungame.png" style="float: center; margin-right: 10px; width: 50%;" /> 
+<img src="img_readme/rungame.png" width="250" /> 
 </br></br>
 
 <h2>Installation</h2>
